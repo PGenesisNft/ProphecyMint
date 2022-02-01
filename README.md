@@ -1,1 +1,2 @@
-# ProphecyMint
+# ProphecyGenesisMintingDapp
+ ProphecyGenesisMintingDapp
